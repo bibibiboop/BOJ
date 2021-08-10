@@ -1,4 +1,4 @@
-//2357 세그먼트 트리 풀이
+//2042세그먼트 트리 
 #include <iostream>
 #include <algorithm>
 #include <vector>
